@@ -45,5 +45,3 @@ This project studies the design of low-pass, high-pass, band-pass and band-stop 
 `MATLAB` · `Digital Signal Processing` · `FIR Filters` · `Windowing` · `Frequency Response` · `Audio Filtering`
 
 This project is part of my broader signal-processing and hardware-oriented engineering background.
-
-[GitHub Profile](https://github.com/AryanAditta) · [EDA Academic Profile](https://aryanaditta.github.io/eda-academic/)
